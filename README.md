@@ -1,2 +1,6 @@
-# lambda
-Serverless Lambda Functions
+# Who Owns
+
+```bash
+yarn
+yarn start
+```
